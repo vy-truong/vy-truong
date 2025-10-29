@@ -61,8 +61,7 @@ My work focuses on **clean architecture**, **scalable React components**, and **
 
 ## ✨ Featured Projects  
 
-### 🪞 [ShapeFinder – Personal Styling & Wardrobe Guide](https://github.com/vy-truong/shape-detector-app
-)
+### 🪞 [ShapeFinder – Personal Styling & Wardrobe Guide](https://github.com/vy-truong/shape-detector-app)
 <p>I noticed how many people, including myself, spend hours trying on outfits yet still feel unsure about what truly suits them. It's inspired me to build this project to make that process simpler and more intuitive. It helps users understand their body shape, visualize outfits digitally, and build confidence in their style while promoting mindful, sustainable fashion choices.</p>
 
 ### 🍳 [MotiChef AI – Smart Cooking Assistant for Busy Lifestyles](https://github.com/vy-truong/recipe-generator-for-anxious-ppl)
