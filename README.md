@@ -1,11 +1,12 @@
 # iVy-truong
 
 <h1 align="center">Hi 👋, I'm Ivy - A full-stack developer based in Calgary</h1>
-<h3 align="center"> I build with purpose to create tools that connect, simplify, and inspire. </br> Open to opportunities across Canada and willing to travel for impactful projects </h3>
+<h3 align="center"> As a Junior Developer, what gets me out of bed in the morning is the desire to learn, build, and grow through new challenges every day. </h3>
+<p align="center"> Open to opportunities across Canada and willing to travel for impactful projects <p>
 
 ## 🚀 About Me  
 I’m a **Software Developer** passionate about building digital experiences that make everyday life easier and more meaningful.  
-I combine creativity, design thinking, and technical precision to bring ideas to life 
+I build with purpose to create tools that connect, simplify, and inspire. 
 My work focuses on **clean architecture**, **scalable React components**, and **user-centered UX**.
 
 
