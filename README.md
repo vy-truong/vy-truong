@@ -67,7 +67,7 @@ My work focuses on **clean architecture**, **scalable React components**, and **
 
 ### 🍳 [MotiChef AI – Smart Cooking Assistant for Busy Lifestyles](https://github.com/vy-truong/recipe-generator-for-anxious-ppl)
 <p align="justify">
-  <b>Many people face decision fatigue when cooking,</b> spending a lot on groceries only to feel anxious when it’s time to cook and end up ordering fast-food instead.
+  <b>Many people face decision fatigue when cooking,</b> spending a lot on groceries only to feel anxious when it’s time to cook and end up ordering fast food instead.
   I created <b><span>MotiChef</span></b> with the intention of helping others, including myself to make the process of cooking healthy meals feel easier and more enjoyable.  
   It suggests <b>personalized recipes</b> based on available ingredients, helping users <b>reduce food waste</b>, <b>save time</b>, and <b>rediscover the joy of cooking</b>.
 </p>
