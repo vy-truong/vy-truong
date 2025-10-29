@@ -61,10 +61,11 @@ My work focuses on **clean architecture**, **scalable React components**, and **
 
 ## ✨ Featured Projects  
 
-### 🪞 [ShapeFinder – Personal Styling & Wardrobe Guide](https://shape-detector-app-alfk.vercel.app/)
+### 🪞 [ShapeFinder – Personal Styling & Wardrobe Guide](https://github.com/vy-truong/shape-detector-app
+)
 <p>I noticed how many people, including myself, spend hours trying on outfits yet still feel unsure about what truly suits them. It's inspired me to build this project to make that process simpler and more intuitive. It helps users understand their body shape, visualize outfits digitally, and build confidence in their style while promoting mindful, sustainable fashion choices.</p>
 
-### 🍳 [MotiChef AI – Smart Cooking Assistant for Busy Lifestyles](https://motichef-ai-recipe-git-style2-vy-truongs-projects-08c6b673.vercel.app/)
+### 🍳 [MotiChef AI – Smart Cooking Assistant for Busy Lifestyles](https://github.com/vy-truong/recipe-generator-for-anxious-ppl)
 <p align="justify">
   <b>Many people face decision fatigue when cooking,</b> spending a lot on groceries only to feel anxious when it’s time to cook and end up ordering fast-food instead.
   I created <b><span>MotiChef</span></b> with the intention of helping others, including myself to make the process of cooking healthy meals feel easier and more enjoyable.  
