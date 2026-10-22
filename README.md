@@ -1,4 +1,4 @@
-# iVy-truong
+# Alex-Truong
 
 <h1 align="center">👋 Hi, I'm Ivy - A full-stack developer based in Calgary</h1>
 <h3 align="center"> As a Developer, what gets me out of bed in the morning is the desire to learn, build, and grow through new challenges every day. </h3>
