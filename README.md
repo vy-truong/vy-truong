@@ -12,7 +12,7 @@ My work focuses on **clean architecture**, **scalable React components**, and **
 
 - 👨‍💻 All of my projects are available at [https://github.com/vy-truong](https://github.com/vy-truong)
 
-- 📫 How to reach me **truongivy03@gmail.com || Linkedin: Ivy Truong**
+- 📫 How to reach me **trminhvy@gmail.com || Linkedin: Vivian Truong**
 
 - 📄 Resume: [View Resume](https://docs.google.com/document/d/1RC1UcoRdRSu3kYa_l1KaszhvEyHzx2jXQAuTZDvNuQs/edit?usp=sharing)
 
@@ -73,7 +73,7 @@ My work focuses on **clean architecture**, **scalable React components**, and **
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/ivy truong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivy truong" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viviantrg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivy truong" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/t2y 4k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="t2y 4k4" height="30" width="40" /></a>
 </p>
 
