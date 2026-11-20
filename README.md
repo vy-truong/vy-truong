@@ -1,8 +1,7 @@
 # Vivian-Truong
 
 <h1 align="center">👋 Hi, I'm Vivian - A full-stack developer based in Calgary</h1>
-<h3 align="center"> As a Developer, what gets me out of bed in the morning is the desire to learn, build, and grow through new challenges every day. </h3>
-<p align="center"> Open to opportunities across Canada and willing to travel for impactful projects <p>
+<h3 align="center"> </h3>
 
 ## 🚀 About Me  
 I’m a **Software Developer** passionate about building digital experiences that make everyday life easier and more meaningful.  
